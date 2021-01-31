@@ -1,0 +1,3 @@
+Please don't.
+Just clone it or fork it, but I highly doubt what you want to add it what I want to add.
+You can always do a pull request, but don't keep your hope high.
