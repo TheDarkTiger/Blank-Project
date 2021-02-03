@@ -9,7 +9,8 @@ mkdir doc
 mkdir src
 
 type NUL >BUILD.txt
-type NUL >CONTRIBUTE.txt
+type NUL >CODE_OF_CONDUCT.txt
+type NUL >CONTRIBUTING.txt
 type NUL >LICENSE.txt
 type NUL >README.txt
 type NUL >TODO.txt
