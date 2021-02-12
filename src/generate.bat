@@ -6,6 +6,7 @@ cd %TARGET%
 
 mkdir bin
 mkdir doc
+mkdir res
 mkdir src
 
 type NUL >BUILD.txt
