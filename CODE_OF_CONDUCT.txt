@@ -1,6 +1,5 @@
 Code of Conduct
 
-
 Respect the next coder by delivering clean code.
 Respect yourself by delivering clean code.
 If someone is mean to you, well, don't take it personaly. Understand why this someone have this atitude, and act acordingly (that means NOT by being mean to this someone, but by being kind and supportive. You can never know other people's life.).
